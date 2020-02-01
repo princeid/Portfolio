@@ -4193,4 +4193,15 @@ h6 {
 ============================================================================================ */
 /*---------------------------------------------------- */
 
+@media (min-width: 991px) {
+  .home_banner_area {
+    height: 100%;
+  }
+
+  .home_left_img img{
+    padding-top: 120px;
+    padding-bottom: 70px;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
